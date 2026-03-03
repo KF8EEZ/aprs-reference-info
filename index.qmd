@@ -5,3 +5,4 @@ title: "APRS info"
 - [APRS Protocol Reference v1.0.1 ](https://www.aprs.org/doc/APRS101.PDF) 
 - [Understanding APRS Packets](https://ham.packet-radio.net/packet/aprs-wb2osz/Understanding-APRS-Packets.pdf)
 - [APRS Documentation project](https://github.com/wb2osz/aprsspec)
+- [Direwolf Telemetry toolkit](https://github.com/wb2osz/direwolf/blob/master/doc/APRS-Telemetry-Toolkit.pdf)
